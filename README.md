@@ -28,5 +28,34 @@ Three configurations were tested to observe performance differences:
 - ✅ Bit error rate (BER) comparison between input and decoded messages  
 - ✅ Customizable parameters for encoding rate, constraint length, and noise level
 
-## 📁 Files Included
+
+## ▶️ How to Run
+
+To execute the code:
+
+1. Open the `.mlx` file in MATLAB.
+2. Run the script to simulate encoding, channel noise, and Viterbi decoding.
+3. View output graphs and BER calculations.
+
+> ℹ️ Make sure MATLAB's **Communications Toolbox** is installed for some functions (e.g., `vitdec`, if used).
+
+## 📊 Results
+
+The decoding performance improves significantly with:
+
+- Longer constraint lengths  
+- Use of soft decision decoding over hard decision  
+- Lower channel noise (higher SNR)
+
+These results are visualized and discussed in the `Viterbi_algorithm_and_analysis.pdf`.
+
+## 🎓 Course Info
+
+- **Course**: Information and Communication Systems  
+- **Group**: 3 – L3 Level  
+- **Institution**: Department of Electrical Engineering
+
+## 📄 License
+
+This project is for academic and educational purposes. Free to use and reference with credit.
 

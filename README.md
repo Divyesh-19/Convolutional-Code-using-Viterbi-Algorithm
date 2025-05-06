@@ -49,13 +49,3 @@ The decoding performance improves significantly with:
 
 These results are visualized and discussed in the `Viterbi_algorithm_and_analysis.pdf`.
 
-## 🎓 Course Info
-
-- **Course**: Information and Communication Systems  
-- **Group**: 3 – L3 Level  
-- **Institution**: Department of Electrical Engineering
-
-## 📄 License
-
-This project is for academic and educational purposes. Free to use and reference with credit.
-
